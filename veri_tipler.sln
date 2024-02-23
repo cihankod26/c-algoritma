@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veri_tipler", "veri_tipler\veri_tipler.csproj", "{8D0C0806-8657-40B6-8C3F-8936C6F642CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0C0806-8657-40B6-8C3F-8936C6F642CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0C0806-8657-40B6-8C3F-8936C6F642CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0C0806-8657-40B6-8C3F-8936C6F642CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0C0806-8657-40B6-8C3F-8936C6F642CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {352BEE4C-3D65-46E9-9045-A4A2FC0B81B8}
+	EndGlobalSection
+EndGlobal
